@@ -21,6 +21,7 @@ label {
 button{
 
     color: white;
+    font-size: 1.6em;
     background: forestgreen;
     padding: 5px;
     border: none;
