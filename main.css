@@ -1,11 +1,13 @@
 body {
 
-    font-family: Constantia, "Lucida Bright", serif;
+    font-family: "Arial", sans-serif;
+
 
 }
 
 h1{
-
+    text-transform: uppercase;
+    font-style: italic;
     color: forestgreen;
 }
 
