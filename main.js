@@ -19,8 +19,13 @@ function greet(){
     var greeting = 'Hello ' + firstName + ' ' + lastName + '!';
 
     console.log(greeting);
-    
+
     //display the greeting
+
+    var greeter = document.getElementById('greeter');
+    console.log(greeter);
+    
+    greeter.textContent = greeting;
 
 
     //remove prompt
