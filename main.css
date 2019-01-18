@@ -1,0 +1,25 @@
+body {
+
+    font-family: Constantia, "Lucida Bright", serif;
+
+}
+
+h1{
+
+    color: forestgreen;
+}
+
+label {
+
+    display: block;
+    padding: 5px;
+    
+}
+
+button{
+
+    color: white;
+    background: forestgreen;
+    padding: 5px;
+    border: none;
+}
